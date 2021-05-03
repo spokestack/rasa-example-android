@@ -1,0 +1,2 @@
+rootProject.name = "Spokestack Rasa"
+include ':app'
